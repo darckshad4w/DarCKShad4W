@@ -14,23 +14,14 @@
     <a href="https://www.linkedin.com/in/rifdhy-rm-8767b9101" title="LinkedIn - Rifdhy RM">
       <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
     </a>
-
-    <p align="center">
-  <kbd>
-    <a href="https://www.linkedin.com/in/rifdhy-rm-8767b9101" title="LinkedIn - Rifdhy RM">
-      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-    </a>
-
     <a href="https://www.upwork.com/freelancers/~01c1a18ff238465415">
       <img height="28" src="https://cdn.cdnlogo.com/logos/u/34/upwork.svg" />
     </a>
-
     <a href="https://darckshad4w.github.io/">
       <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white" />
     </a>
   </kbd>
 </p>
-
 ---
 
 ## 👨‍💻 About Me
