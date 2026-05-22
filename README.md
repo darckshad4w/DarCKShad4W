@@ -92,22 +92,11 @@ I also have hands-on experience with:
 - Performed log analysis and threat hunting
 - Developed SPL-based alerting workflows
 
-### 🔥 WEB APPLICATION & API PENTEST LAB
-- Built vulnerable web applications for testing and research
-- Practiced OWASP Top 10 exploitation techniques
-- Automated recon and vulnerability scanning with Python
-- Integrated Burp Suite and custom tooling
-
-### 🛡️ ACTIVE DIRECTORY ATTACK & DEFENSE LAB
-- Configured a Windows AD environment
-- Simulated lateral movement and privilege escalation attacks
-- Practiced blue-team detection and log analysis
-- Used Sysmon, Windows Event Logs, and Sigma rules
-
-### 🐳 CONTAINER & DOCKER SECURITY LAB
-- Practiced Docker and Kubernetes security testing
-- Tested container escape and misconfiguration scenarios
-- Learned runtime monitoring and hardening techniques
+###🔍 CYREXIO SCANNER v7.0
+- Built an AI-powered automated security assessment framework for authorized penetration testing and bug bounty research
+- Implemented OWASP Top 10 2025 exploitation techniques with full finding-to-category mapping
+- Automated recon and vulnerability scanning with Python, orchestrating 14 tools across 7 structured scan phases
+- Integrated Burp Suite Pro via REST API alongside custom AI-driven correlation and report generation
 
 ---
 
