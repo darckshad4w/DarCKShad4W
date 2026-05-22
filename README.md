@@ -92,7 +92,7 @@ I also have hands-on experience with:
 - Performed log analysis and threat hunting
 - Developed SPL-based alerting workflows
 
-###🔍 CYREXIO SCANNER v7.0
+### 🔍 CYREXIO SCANNER v7.0
 - Built an AI-powered automated security assessment framework for authorized penetration testing and bug bounty research
 - Implemented OWASP Top 10 2025 exploitation techniques with full finding-to-category mapping
 - Automated recon and vulnerability scanning with Python, orchestrating 14 tools across 7 structured scan phases
