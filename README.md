@@ -1,11 +1,17 @@
-# 👋 Holla! I'm Rifdhy RM
+<div align="center">
 
-### 💻 Cyber Security Engineer | 🔐 Penetration Tester | 🛡️ SOC Team Lead | 🌍 Sri Lanka
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,12,30&height=220&section=header&text=Rifdhy%20RM&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Cyber%20Security%20Engineer%20%7C%20Penetration%20Tester%20%7C%20SOC%20Team%20Lead&descAlignY=58&descAlign=50" width="100%"/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=E31E24&center=true&vCenter=true&width=650&lines=Hi+there%2C+I'm+Rifdhy+%F0%9F%91%8B;Breaking+things+so+they+can+be+fixed;SOC+Team+Lead+%40+Halexo;Web+%2F+API+%2F+Cloud+Penetration+Tester;Based+in+Colombo%2C+Sri+Lanka+%F0%9F%87%B1%F0%9F%87%B0" alt="Typing SVG" />
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rifdhyrm/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://rifdhyrm.online/)
 [![HackTheBox](https://img.shields.io/badge/Hack_The_Box-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=black)](https://profile.hackthebox.com/profile/019fec29-3725-708e-b0f8-1facbb00ed59)
 [![TryHackMe](https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=red)](https://tryhackme.com/p/DarCKShad4W)
+
+![Profile Views](https://komarev.com/ghpvc/?username=rifdhyrm&color=e31e24&style=for-the-badge&label=PROFILE+VIEWS)
+
+</div>
 
 ---
 
@@ -31,7 +37,7 @@ I specialize in identifying:
 
 I also have hands-on experience with AWS Security Monitoring, Azure Sentinel / Microsoft Defender, SIEM Engineering, Detection Engineering, Threat Hunting, and Security Automation with Python & Bash.
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=2,12&height=3&section=header" width="100%"/>
 
 ## 🎓 Education
 
@@ -40,7 +46,7 @@ Lincoln University College · Completed 2024
 
 Honours-level degree pairing core computer science with a specialization in network technology and cybersecurity — covering network architecture & security, offensive/defensive security fundamentals, digital forensics, secure systems design, cryptography, and applied research.
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=2,12&height=3&section=header" width="100%"/>
 
 ## 🏆 Certifications
 
@@ -53,7 +59,7 @@ Honours-level degree pairing core computer science with a specialization in netw
 - 🌱 AZ-500 — *in progress*
 - 🌱 CPTS — *in progress*
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=2,12&height=3&section=header" width="100%"/>
 
 ## 🧪 Security Labs & Projects
 
@@ -100,7 +106,7 @@ Honours-level degree pairing core computer science with a specialization in netw
 - Explores privilege escalation between Azure AD roles and Azure RBAC
 - Covers token theft, consent phishing, and app-registration abuse paths
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=2,12&height=3&section=header" width="100%"/>
 
 ## 🔧 My Skillset
 
@@ -118,7 +124,7 @@ Honours-level degree pairing core computer science with a specialization in netw
 - ✔️ Security Automation with Python & Bash
 - ✔️ Bug Bounty Hunting & Security Research
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=2,12&height=3&section=header" width="100%"/>
 
 ## 🚀 Current Focus
 
@@ -128,7 +134,7 @@ Honours-level degree pairing core computer science with a specialization in netw
 - 🤝 Collaborating on security research and bug bounty programs
 - 📚 Improving cloud and detection engineering skills
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=2,12&height=3&section=header" width="100%"/>
 
 ## ⚡ Fun Fact
 
@@ -137,6 +143,8 @@ I enjoy hunting vulnerabilities, building labs, automating security workflows, a
 ---
 
 # 🔧 Security Technologies & Tools
+
+<div align="center">
 
 ![Kali](https://img.shields.io/badge/OS-Kali_Linux-red?style=for-the-badge&logo=kalilinux&logoColor=white)
 ![Linux](https://img.shields.io/badge/OS-Linux-red?style=for-the-badge&logo=linux&logoColor=white)
@@ -152,11 +160,36 @@ I enjoy hunting vulnerabilities, building labs, automating security workflows, a
 ![AWS](https://img.shields.io/badge/Cloud-AWS-red?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![Azure](https://img.shields.io/badge/Cloud-Azure-red?style=for-the-badge&logo=microsoftazure&logoColor=white)
 
----
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=2,12&height=3&section=header" width="100%"/>
+
+## 📈 GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=rifdhyrm&show_icons=true&theme=dracula&hide_border=true&bg_color=0d1117&title_color=e31e24&icon_color=e31e24&text_color=c9d1d9" height="165"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=rifdhyrm&theme=dracula&hide_border=true&background=0d1117&ring=e31e24&fire=e31e24&currStreakLabel=e31e24" height="165"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rifdhyrm&layout=compact&theme=dracula&hide_border=true&bg_color=0d1117&title_color=e31e24&text_color=c9d1d9" height="165"/>
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=2,12&height=3&section=header" width="100%"/>
 
 ## 📬 Get In Touch
 
+<div align="center">
+
 📍 Colombo, Sri Lanka — open to relocation
 📧 rifdhyrm@gmail.com
-💬 [WhatsApp](https://wa.me/94761668914)
-🌐 [Portfolio](https://rifdhyrm.online/) · [LinkedIn](https://www.linkedin.com/in/rifdhyrm/) · [Hack The Box](https://profile.hackthebox.com/profile/019fec29-3725-708e-b0f8-1facbb00ed59) · [TryHackMe](https://tryhackme.com/p/DarCKShad4W)
+
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/94761668914)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://rifdhyrm.online/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rifdhyrm/)
+[![Hack The Box](https://img.shields.io/badge/Hack_The_Box-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=black)](https://profile.hackthebox.com/profile/019fec29-3725-708e-b0f8-1facbb00ed59)
+[![TryHackMe](https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=red)](https://tryhackme.com/p/DarCKShad4W)
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,12,30&height=120&section=footer" width="100%"/>
