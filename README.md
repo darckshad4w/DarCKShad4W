@@ -3,7 +3,6 @@
 ### 💻 Cyber Security Engineer | 🔐 Penetration Tester | 🛡️ SOC Team Lead | 🌍 Sri Lanka
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rifdhyrm/)
-[![Upwork](https://cdn.cdnlogo.com/logos/u/34/upwork.svg)](https://www.upwork.com/freelancers/~01c1a18ff238465415)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://rifdhyrm.online/)
 [![HackTheBox](https://img.shields.io/badge/Hack_The_Box-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=black)](https://profile.hackthebox.com/profile/019fec29-3725-708e-b0f8-1facbb00ed59)
 [![TryHackMe](https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=red)](https://tryhackme.com/p/DarCKShad4W)
