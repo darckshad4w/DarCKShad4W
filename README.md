@@ -9,7 +9,7 @@
 [![HackTheBox](https://img.shields.io/badge/Hack_The_Box-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=black)](https://profile.hackthebox.com/profile/019fec29-3725-708e-b0f8-1facbb00ed59)
 [![TryHackMe](https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=red)](https://tryhackme.com/p/DarCKShad4W)
 
-![Profile Views](https://komarev.com/ghpvc/?username=rifdhyrm&color=e31e24&style=for-the-badge&label=PROFILE+VIEWS)
+![Profile Views](https://komarev.com/ghpvc/?username=darckshd4w&color=e31e24&style=for-the-badge&label=PROFILE+VIEWS)
 
 </div>
 
@@ -168,12 +168,44 @@ I enjoy hunting vulnerabilities, building labs, automating security workflows, a
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=rifdhyrm&show_icons=true&theme=dracula&hide_border=true&bg_color=0d1117&title_color=e31e24&icon_color=e31e24&text_color=c9d1d9" height="165"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=rifdhyrm&theme=dracula&hide_border=true&background=0d1117&ring=e31e24&fire=e31e24&currStreakLabel=e31e24" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api?username=darckshd4w&show_icons=true&theme=dracula&hide_border=true&bg_color=0d1117&title_color=e31e24&icon_color=e31e24&text_color=c9d1d9" height="165"/>
+<img src="https://streak-stats.demolab.com/?user=darckshd4w&theme=dracula&hide_border=true&background=0d1117&ring=e31e24&fire=e31e24&currStreakLabel=e31e24" height="165"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rifdhyrm&layout=compact&theme=dracula&hide_border=true&bg_color=0d1117&title_color=e31e24&text_color=c9d1d9" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=darckshd4w&layout=compact&theme=dracula&hide_border=true&bg_color=0d1117&title_color=e31e24&text_color=c9d1d9" height="165"/>
 
 </div>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=2,12&height=3&section=header" width="100%"/>
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=darckshd4w&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&row=1&column=7" />
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=2,12&height=3&section=header" width="100%"/>
+
+## 🖥️ Live Status
+
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=2200&pause=600&color=39FF14&background=0D1117&center=true&vCenter=true&width=650&height=140&lines=root%40darckshd4w%3A~%23+whoami;%3E+Rifdhy+RM+%7C+SOC+Team+Lead+%40+Halexo;root%40darckshd4w%3A~%23+status;%3E+%F0%9F%9F%A2+Currently+hunting+for+vulnerabilities...;root%40darckshd4w%3A~%23+cat+focus.txt;%3E+Preparing+for+OSCP+%7C+Building+Cyrexio+Scanner+v7;root%40darckshd4w%3A~%23+_" alt="live terminal status" />
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=2,12&height=3&section=header" width="100%"/>
+
+## 🐍 Contribution Snake
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/darckshd4w/darckshd4w/output/github-contribution-grid-snake-dark.svg" alt="snake animation" width="100%"/>
+
+</div>
+
+> ⚠️ The snake above needs one 5-minute setup step on your side — see below.
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=2,12&height=3&section=header" width="100%"/>
 
