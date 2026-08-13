@@ -42,6 +42,7 @@ I also have hands-on experience with AWS Security Monitoring, Azure Sentinel / M
 ## 🎓 Education
 
 **Bachelor of Computer Science (Hons) — Network Technology & Cybersecurity**
+
 Lincoln University College · Completed 2024
 
 Honours-level degree pairing core computer science with a specialization in network technology and cybersecurity — covering network architecture & security, offensive/defensive security fundamentals, digital forensics, secure systems design, cryptography, and applied research.
@@ -64,44 +65,52 @@ Honours-level degree pairing core computer science with a specialization in netw
 ## 🧪 Security Labs & Projects
 
 ### ☁️ AWS Security Monitoring Home Lab [AWS Free Tier]
+
 - Built a cloud-native SOC monitoring environment on AWS
 - Integrated CloudTrail, GuardDuty, CloudWatch, and IAM monitoring
 - Simulated brute-force attacks and reconnaissance activity
 - Created custom alerting and detection workflows
 
 ### 🔷 Azure Security Monitoring Lab – SC-200 Aligned [Azure Free Tier]
+
 - Configured Microsoft Sentinel and Defender for Cloud
 - Built KQL queries and analytics rules for threat detection
 - Simulated attack scenarios and alert triage workflows
 - Hardened baseline configs across the Azure free-tier tenant
 
 ### 📊 Splunk SOC Lab – SIEM & Detection Engineering [Home Lab]
+
 - Built a Splunk SIEM lab for SOC analysis
 - Created custom dashboards and detection rules
 - Performed log analysis and threat hunting
 - Developed SPL-based alerting workflows
 
 ### 🐍 Python Automated Vulnerability Scanner
+
 - Automated scanner for web application security testing
 - Reconnaissance and vulnerability-finding automation
 - Built and maintained as a personal tool
 
 ### 🔍 Cyrexio Scanner v7.0
+
 - AI-powered automated security assessment framework for authorized pentesting and bug bounty research
 - Implements OWASP Top 10 2025 exploitation techniques with finding-to-category mapping
 - Automates recon and vulnerability scanning with Python, orchestrating 14 tools across 7 scan phases
 - Integrates Burp Suite Pro via REST API with AI-driven correlation and report generation
 
 ### 🗝️ Active Directory Internal Pentest Lab *(coming soon)*
+
 - Home-lab AD environment for internal pentest practice
 - Covers Kerberoasting, AS-REP roasting, and BloodHound attack-path mapping
 - Chains lateral movement and privilege escalation to Domain Admin
 
 ### ☁️ AWS IAM Privilege Escalation Lab *(coming soon)*
+
 - Offensive-focused lab mapping common AWS IAM misconfiguration paths
 - Chains overly-permissive policies into privilege escalation to admin
 
 ### 🔷 Entra ID IAM Attack Lab *(coming soon)*
+
 - Tests common Entra ID role and conditional-access misconfigurations
 - Explores privilege escalation between Azure AD roles and Azure RBAC
 - Covers token theft, consent phishing, and app-registration abuse paths
@@ -164,30 +173,32 @@ I enjoy hunting vulnerabilities, building labs, automating security workflows, a
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=2,12&height=3&section=header" width="100%"/>
 
-## 📈 GitHub Stats
+# 📈 GitHub Stats
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=darckshd4w&show_icons=true&theme=dracula&hide_border=true&bg_color=0d1117&title_color=e31e24&icon_color=e31e24&text_color=c9d1d9" height="165"/>
-<img src="https://streak-stats.demolab.com/?user=darckshd4w&theme=dracula&hide_border=true&background=0d1117&ring=e31e24&fire=e31e24&currStreakLabel=e31e24" height="165"/>
+<img src="./profile/stats.svg" height="165" alt="GitHub Stats"/>
+<img src="./profile/streak.svg" height="165" alt="GitHub Streak"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=darckshd4w&layout=compact&theme=dracula&hide_border=true&bg_color=0d1117&title_color=e31e24&text_color=c9d1d9" height="165"/>
+<br/>
+
+<img src="./profile/top-langs.svg" height="165" alt="Top Languages"/>
 
 </div>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=2,12&height=3&section=header" width="100%"/>
 
-## 🏆 GitHub Trophies
+# 🏆 GitHub Trophies
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=darckshd4w&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&row=1&column=7" />
+<img src="./profile/trophy.svg" alt="GitHub Trophies" width="100%"/>
 
 </div>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=2,12&height=3&section=header" width="100%"/>
 
-## 🖥️ Live Status
+# 🖥️ Live Status
 
 <div align="center">
 
@@ -197,23 +208,26 @@ I enjoy hunting vulnerabilities, building labs, automating security workflows, a
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=2,12&height=3&section=header" width="100%"/>
 
-## 🐍 Contribution Snake
+# 🐍 Contribution Snake
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/darckshd4w/darckshd4w/output/github-contribution-grid-snake-dark.svg" alt="snake animation" width="100%"/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/darckshd4w/DarCKShad4W/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/darckshd4w/DarCKShad4W/output/github-contribution-grid-snake.svg" />
+  <img alt="github contribution snake" src="https://raw.githubusercontent.com/darckshd4w/DarCKShad4W/output/github-contribution-grid-snake.svg" width="100%" />
+</picture>
 
 </div>
 
-> ⚠️ The snake above needs one 5-minute setup step on your side — see below.
-
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=2,12&height=3&section=header" width="100%"/>
 
-## 📬 Get In Touch
+# 📬 Get In Touch
 
 <div align="center">
 
 📍 Colombo, Sri Lanka — open to relocation
+
 📧 rifdhyrm@gmail.com
 
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/94761668914)
