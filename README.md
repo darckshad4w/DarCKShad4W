@@ -13,7 +13,7 @@
 
 </div>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=2,12&height=3&section=header" width="100%"/>
 
 ## 👨‍💻 About Me
 
@@ -59,6 +59,23 @@ Honours-level degree pairing core computer science with a specialization in netw
 - 🎓 Microsoft Security Operations Analyst Associate (SC-200)
 - 🌱 AZ-500 — *in progress*
 - 🌱 CPTS — *in progress*
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=2,12&height=3&section=header" width="100%"/>
+
+## 📦 Featured Repositories
+
+<div align="center">
+
+| Repository | Stack | Notes |
+|---|---|---|
+| 🛡️ [**aws-security-lab**](https://github.com/darckshad4w/aws-security-lab) | ![Shell](https://img.shields.io/badge/Shell-red?style=flat-square&logo=gnubash&logoColor=white) | Cloud-native AWS SOC monitoring home lab ⭐ 1 |
+| 🔍 [**Cyrexio Scanner v7**](https://github.com/darckshad4w/Python-Automated-Vulnerability-Scanner-cyrexio_v7.py-) | ![Python](https://img.shields.io/badge/Python-red?style=flat-square&logo=python&logoColor=white) | AI-powered automated vulnerability scanner ⭐ 1 |
+| 🌐 [**darckshad4w.github.io**](https://github.com/darckshad4w/darckshad4w.github.io) | ![HTML](https://img.shields.io/badge/HTML-red?style=flat-square&logo=html5&logoColor=white) | Personal portfolio site |
+| 🎯 [**Bounty-Engine-Script**](https://github.com/darckshad4w/Bounty-Engine-Script) | ![Python](https://img.shields.io/badge/Python-red?style=flat-square&logo=python&logoColor=white) | Bug bounty recon & automation script |
+| 🔷 [**azure-security-lab**](https://github.com/darckshad4w/azure-security-lab) | ![Shell](https://img.shields.io/badge/Shell-red?style=flat-square&logo=gnubash&logoColor=white) | Microsoft Sentinel / SC-200 aligned detection lab |
+| ⚙️ [**DarCKShad4W**](https://github.com/darckshad4w/DarCKShad4W) | ![Config](https://img.shields.io/badge/Config-red?style=flat-square&logo=github&logoColor=white) | This profile's config repo |
+
+</div>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=2,12&height=3&section=header" width="100%"/>
 
@@ -149,7 +166,7 @@ Honours-level degree pairing core computer science with a specialization in netw
 
 I enjoy hunting vulnerabilities, building labs, automating security workflows, and learning something new every day.
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=2,12&height=3&section=header" width="100%"/>
 
 # 🔧 Security Technologies & Tools
 
@@ -168,55 +185,6 @@ I enjoy hunting vulnerabilities, building labs, automating security workflows, a
 ![Sentinel](https://img.shields.io/badge/Tool-Microsoft_Sentinel-red?style=for-the-badge&logo=microsoft&logoColor=white)
 ![AWS](https://img.shields.io/badge/Cloud-AWS-red?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![Azure](https://img.shields.io/badge/Cloud-Azure-red?style=for-the-badge&logo=microsoftazure&logoColor=white)
-
-</div>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=2,12&height=3&section=header" width="100%"/>
-
-# 📈 GitHub Stats
-
-<div align="center">
-
-<img src="./profile/stats.svg" height="165" alt="GitHub Stats"/>
-<img src="./profile/streak.svg" height="165" alt="GitHub Streak"/>
-
-<br/>
-
-<img src="./profile/top-langs.svg" height="165" alt="Top Languages"/>
-
-</div>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=2,12&height=3&section=header" width="100%"/>
-
-# 🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="./profile/trophy.svg" alt="GitHub Trophies" width="100%"/>
-
-</div>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=2,12&height=3&section=header" width="100%"/>
-
-# 🖥️ Live Status
-
-<div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=2200&pause=600&color=39FF14&background=0D1117&center=true&vCenter=true&width=650&height=140&lines=root%40darckshd4w%3A~%23+whoami;%3E+Rifdhy+RM+%7C+SOC+Team+Lead+%40+Halexo;root%40darckshd4w%3A~%23+status;%3E+%F0%9F%9F%A2+Currently+hunting+for+vulnerabilities...;root%40darckshd4w%3A~%23+cat+focus.txt;%3E+Preparing+for+OSCP+%7C+Building+Cyrexio+Scanner+v7;root%40darckshd4w%3A~%23+_" alt="live terminal status" />
-
-</div>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=2,12&height=3&section=header" width="100%"/>
-
-# 🐍 Contribution Snake
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/darckshd4w/DarCKShad4W/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/darckshd4w/DarCKShad4W/output/github-contribution-grid-snake.svg" />
-  <img alt="github contribution snake" src="https://raw.githubusercontent.com/darckshd4w/DarCKShad4W/output/github-contribution-grid-snake.svg" width="100%" />
-</picture>
 
 </div>
 
